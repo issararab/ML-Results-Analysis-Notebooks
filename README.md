@@ -2,7 +2,7 @@
 This repository showcase code for visualization and analysis to reproduce the presented results in the paper for semi-supervised rescoring in ANN-SoLo
 
 ## Repository structure
-To re-run the whole notebook analysis, clone the repository, unzip all the files in the data/ folder then run the notebook's cells.
+To re-run the whole notebook analysis: Clone the repository, unzip all the files in the data/. folder then run the notebook's cells.
 
 ### Q-value plot
 

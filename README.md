@@ -10,6 +10,6 @@ If you use snippets of code from this notebook in your work, please cite the fol
 
 - Issar Arab, William E. Fondrie, Kris Laukens, and Wout Bittremieux. **Semisupervised Machine Learning for Sensitive Open Modification Spectral Library Searching.** _Journal of Proteome Research_ (2023). [doi:10.1021/acs.jproteome.2c00616](https://doi.org/10.1021/acs.jproteome.2c00616)
 
-### Q-value plot
+## Q-value plot
 
 ![std_q-value](https://user-images.githubusercontent.com/17605438/208801764-cf6120c5-c2d1-4456-a518-657f10b7cded.png)
